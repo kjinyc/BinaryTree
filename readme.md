@@ -11,6 +11,9 @@ Good for dictionary problems
 Each node's children have values less than or equal to node's value  
 Constant search time for maximum  
 
+##Functions
+- lookUp()
+
 
 
 
